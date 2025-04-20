@@ -62,15 +62,6 @@ Este projeto implementa um dashboard interativo para visualização e previsão 
    streamlit run app.py
    ```
 
-## Atualização Automática
-
-O sistema está configurado para atualizar os dados e retreinar os modelos semanalmente. Para configurar a atualização automática:
-
-```
-chmod +x crontab_setup.sh
-./crontab_setup.sh
-```
-
 ## Acesso ao Dashboard
 
 O dashboard está disponível publicamente em:

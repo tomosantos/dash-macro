@@ -1,6 +1,5 @@
 # Dashboard de Previsões Macroeconômicas - Configuração para Streamlit Cloud
-
-Este arquivo contém configurações específicas para o deploy no Streamlit Cloud.
+# Este arquivo contém configurações específicas para o deploy no Streamlit Cloud.
 
 [theme]
 primaryColor = "#1E88E5"
