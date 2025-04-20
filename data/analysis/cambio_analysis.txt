@@ -1,0 +1,20 @@
+Análise de CAMBIO
+==================================================
+
+Estatísticas Descritivas:
+            cambio
+count  2508.000000
+mean      4.460677
+std       0.918288
+min       2.894300
+25%       3.642900
+50%       4.760550
+75%       5.262075
+max       6.208600
+
+Valores Ausentes:
+cambio    0
+dtype: int64
+
+Período: 2015-04-22 00:00:00 a 2025-04-17 00:00:00
+Número de observações: 2508

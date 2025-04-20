@@ -1,0 +1,20 @@
+Análise de PIB
+==================================================
+
+Estatísticas Descritivas:
+                pib
+count  1.190000e+02
+mean   6.982924e+05
+std    1.671700e+05
+min    4.825075e+05
+25%    5.545689e+05
+50%    6.350361e+05
+75%    8.508572e+05
+max    1.046392e+06
+
+Valores Ausentes:
+pib    0
+dtype: int64
+
+Período: 2015-04-01 00:00:00 a 2025-02-01 00:00:00
+Número de observações: 119

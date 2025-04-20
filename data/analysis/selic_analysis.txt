@@ -1,0 +1,20 @@
+Análise de SELIC
+==================================================
+
+Estatísticas Descritivas:
+            selic
+count  121.000000
+mean     9.422149
+std      4.117595
+min      1.900000
+25%      6.400000
+50%     10.490000
+75%     13.580000
+max     14.150000
+
+Valores Ausentes:
+selic    0
+dtype: int64
+
+Período: 2015-04-01 00:00:00 a 2025-04-01 00:00:00
+Número de observações: 121

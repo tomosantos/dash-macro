@@ -1,0 +1,20 @@
+Análise de IPCA
+==================================================
+
+Estatísticas Descritivas:
+             ipca
+count  120.000000
+mean     0.453167
+std      0.395294
+min     -0.680000
+25%      0.220000
+50%      0.415000
+75%      0.710000
+max      1.620000
+
+Valores Ausentes:
+ipca    0
+dtype: int64
+
+Período: 2015-04-01 00:00:00 a 2025-03-01 00:00:00
+Número de observações: 120
