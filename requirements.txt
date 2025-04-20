@@ -10,3 +10,4 @@ streamlit
 yfinance
 python-bcb
 xgboost
+openpyxl
