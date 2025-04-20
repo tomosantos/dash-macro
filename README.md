@@ -64,7 +64,7 @@ Este projeto implementa um dashboard interativo para visualização e previsão 
 
 ## Acesso ao Dashboard
 
-O dashboard está disponível publicamente em:
+O dashboard está disponível publicamente em: https://dash-macro-br.streamlit.app/
 
 
 ## Limitações e Considerações
